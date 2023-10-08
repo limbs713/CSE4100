@@ -15,7 +15,12 @@ pipe(|) 명령어를 구현하여 명령어의 출력을 연결하여 다른 명
 background process의 구현과 process의 상태 전환등을 구현하였다. 
 
 ### 과제 코드 점수
-Project : 100/100
+과제 코드 점수
+phase1 : 100/100
+
+phase2 : 100/100
+
+phase3 : 100/100
 
 -------
 ## Project 2

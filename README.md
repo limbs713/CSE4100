@@ -19,7 +19,7 @@ phase1 : 100/100
 
 phase2 : 100/100
 
-phase3 : 100/100
+phase3 : 91/100
 
 -------
 ## Project 2
